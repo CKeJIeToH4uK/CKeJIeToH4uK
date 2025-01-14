@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**CKeJIeToH4uK/CKeJIeToH4uK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Bulat Mannanov. I am currently studying at HSE, where I am focused on learning machine learning, C++, and mathematics. I am looking for assistance with C++ and math. Feel free to ask me about data science or school-level math. You can reach me at HSE, MSC. My pronouns are he/him. A fun fact about me is that I moved from Chelyabinsk to enter HSE, and I enjoy skiing and relaxing in my free time. Nice to meet you!
 
 - 🔭 I’m currently study at HSE
 - 🌱 I’m currently learning ML, C++, mathematics
