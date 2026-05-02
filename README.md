@@ -1,11 +1,12 @@
-My name is Bulat Mannanov. I am currently studying at HSE, where I am focused on learning machine learning, C++, and mathematics. I am looking for assistance with C++ and math. Feel free to ask me about data science or school-level math. You can reach me at HSE, MSC. My pronouns are he/him. A fun fact about me is that I moved from Chelyabinsk to enter HSE, and I enjoy skiing and relaxing in my free time. Nice to meet you!
+Hi, I’m Bulat Mannanov.
 
-- 🔭 I’m currently study at HSE
-- 🌱 I’m currently learning ML, C++, mathematics
-- 🤔 I’m looking for help with C++, math
-- 💬 Ask me about DS, school math
-- 📫 How to reach me: HSE, MSC
-- 😄 Pronouns: He
-- ⚡ Fun fact: I came from Chelyabinsk to enter HSE. I love skiing and chilling.
---> Nice to meet you!
-    
+I’m an Applied Mathematics and Computer Science student at HSE University in Moscow. My main interests are machine learning, mathematics, and scientific computing. I’m currently focused on classical ML, tabular data, feature engineering, Scientific ML, and C++.
+
+I like building projects where the result is measurable: clean validation, reproducible pipelines, and clear comparison of models. Recently, I worked on a Dota 2 match outcome prediction pipeline and a Scientific ML benchmark for neural interatomic potentials.
+
+I’m always open to discussing machine learning, data science, mathematics, and C++.
+
+I moved from Chelyabinsk to Moscow to study at HSE. Outside of coursework and projects, I enjoy skiing and taking time to reset.
+
+Contact: brmannanov@edu.hse.ru
+GitHub: github.com/CKeJIeToH4uK
